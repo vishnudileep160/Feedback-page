@@ -2,7 +2,7 @@
 
 <h1>Desktop view</h1>
 
-<img src="/screenshot_desktop.png">
+<img src="screenshot_desktop.png">
 
 ## Welcome! 👋
 
