@@ -1,16 +1,16 @@
 # Interactive rating component
 
 <h1>Desktop View</h1>
-<img src="/screenshot_desktop.png">
+<img src="/screenshot_desktop.PNG">
 
 <h1>Desktop View</h1>
-<img src="/screenshot_numclick.png">
+<img src="/screenshot_numclick.PNG">
 
 <h1>Desktop View</h1>
-<img src="/screenshot_on_submit.png">
+<img src="/screenshot_on_submit.PNG">
 
 <h1>Desktop View</h1>
-<img src="/screenshot_mobile.png">
+<img src="/screenshot_mobile.PNG">
 
 ## Welcome! 👋
 
