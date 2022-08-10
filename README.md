@@ -1,6 +1,8 @@
 # Interactive rating component
 
-![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
+<h1>Desktop view</h1>
+
+<img src="/screenshot_desktop.png">
 
 ## Welcome! 👋
 
