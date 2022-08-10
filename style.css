@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    user-select: none;
+    box-sizing: border-box;
+    font-family: 'Overpass Mono', monospace;
+}
+
+body{
+    
+    
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(216, 12%, 8%);
+}
+
+.container1{
+    max-width: 22rem;
+    height: max-content;
+    text-align: left;
+    padding: 0 1rem;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 20px;
+    flex-wrap: wrap;
+}
+
+
+
+.image{
+    background-color: hsl(216, 12%, 54%) ;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    margin: 2rem 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    
+    width: 1.5rem;  
+    border-radius: 50%;
+    background-color: hsl(216, 12%, 54%);
+}
+
+
+h1{
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+    margin: 0 0.5rem 1rem;
+}
+
+p{
+    font-size: 11px;
+    color: hsl(0, 0%, 100%);
+    margin-bottom: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    
+}
+
+/* .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); } */
+
+.buttons{
+    display: flex;
+    gap: 1.6em;
+    margin-bottom: 2em;
+    justify-content: center;
+}
+
+.btn{
+    background-color: hsl(217, 12%, 63%);
+    color: hsl(0, 0%, 100%);
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+}
+
+.btn:hover{
+    color: white;
+    background-color: orange;
+}
+
+.submitbtn{
+    color: orange;
+    background-color: white;
+    padding: 0.6em 0;
+    width: 100%;
+    border-radius: 25px;
+    font-weight: 700;
+    margin: 0 0.1rem 2rem;
+}
+
+.submitbtn:hover{
+    color: white;
+    background-color: orange;
+}
+
+.container2{
+    max-width: 22rem;
+    height: max-content;
+    margin: auto;
+    text-align: left;
+    padding: 0 1rem;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 20px;
+    flex-wrap: wrap;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+h4{
+    text-align: center;
+    font-size: 11px;
+    margin-bottom: 2em;
+    color: orange;
+    background-color: hsl(0, 0%, 20%);
+    width: fit-content;
+    padding: 6px 10px;
+    border-radius: 15px;
+}
+
+
+#image{
+    min-width: 8em;
+    margin: 2em auto;
+}
+
+#heading{
+    color: white;
+    text-align: center;
+}
+
+#para{
+    text-align: justify;
+    text-align-last: center;
+    color: rgb(192, 192, 192);
+    margin-bottom: 4em;
+    padding: 0 0.5em;
+}
+
+@media only screen and (max-width: 376px) {
+    .container1{
+        width: 20rem;
+        flex-wrap: wrap;
+    }
+
+    .buttons{
+        gap: 8%;
+    }
+}
