@@ -3,13 +3,13 @@
 <h1>Desktop View</h1>
 <img src="/screenshot_desktop.PNG">
 
-<h1>Desktop View</h1>
+<h1>Desktop View on Rating click</h1>
 <img src="/screenshot_numclick.PNG">
 
-<h1>Desktop View</h1>
+<h1>Desktop View on submit</h1>
 <img src="/screenshot_on_submit.PNG">
 
-<h1>Desktop View</h1>
+<h1>Mobile View</h1>
 <img src="/screenshot_mobile.PNG">
 
 ## Welcome! 👋
